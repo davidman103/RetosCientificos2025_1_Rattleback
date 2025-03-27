@@ -1,6 +1,6 @@
 # 🌀 Retos Científicos 2025: Rattleback  
 
-Repositorio dedicado al seguimiento y documentación del proyecto sobre el **Rattleback**, desarrollado en el marco de la materia **Retos Científicos**.  
+Repositorio dedicado al seguimiento y documentación del proyecto sobre el **Rattleback**, desarrollado en el marco de la materia **Retos Científicos**, bajo la guía del profesor **Luis Alberto Núñez de Villavicencio, PhD**.
 
 ## 📌 Descripción  
 Este repositorio contiene los avances, informes y material relacionado con el estudio del **Rattleback**, un objeto con propiedades dinámicas inusuales que permite el análisis de inestabilidad rotacional y transferencia de momento angular.  
