@@ -1,6 +1,0 @@
-Semana anterior:
-- Correcciones y propuesta final en formato PDF.
-
-Semana actual:
-- Implementación del servomotor para aplicar la fuerza inicial al Rattleback.
-- Toma de algunas grabaciones sobre el movimiento del Rattleback usando un celular a 60 FPS.
